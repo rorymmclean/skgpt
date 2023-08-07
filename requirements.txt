@@ -1,4 +1,4 @@
-langchain==0.0.243
+langchain
 openai
 streamlit
 sqlite3
